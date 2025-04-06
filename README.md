@@ -1,0 +1,1 @@
+Trained a image classifier tht detected whether the given animal was horse or donkey. Lost the trained .pth file due to hard disk corruptin. Neverhteless, training can be done again if the paths are set correctly. Will upload weights file soon.
