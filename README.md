@@ -1,1 +1,1 @@
-Trained a image classifier tht detected whether the given animal was horse or donkey. Lost the trained .pth file due to hard disk corruptin. Neverhteless, training can be done again if the paths are set correctly. Will upload weights file soon.
+Training model that can be used for binary image classification. Used VGG16 with pretrained weights and pytorch. Will start training as soon as I get my GPU back.
