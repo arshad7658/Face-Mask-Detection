@@ -1,1 +1,8 @@
-Training model that can be used for binary image classification. Used VGG16 with pretrained weights and pytorch. Will start training as soon as I get my GPU back.
+This is my first cnn preoject. Detects whether the person in the image is wearing a mask or not. Used vgg16 for transfer learning.
+
+Here's the weights [file](https://drive.google.com/file/d/1ARj2hs0nBvgLDUXLXQ8BAb2l0UMf2mkm/view?usp=sharing).
+
+
+
+![Performance Metrics:](aaa.jpeg)
+
